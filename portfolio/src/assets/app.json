@@ -1,0 +1,119 @@
+{
+    "siteName": "RAJESH ROUT",
+    "name": "Rajesh kumar Rout",
+    "profileImg": "/public/profile.png",
+    "resume": "https://rajeshrout.netlify.app/resume.pdf",
+    "about": "I am an enthusiastic, self-motivated, reliable, responsible and hard working person. I am a mature team worker and adaptable to all challenging situations. I am able to work well both in a team environment as well as using own initiative.",
+    "skills": [
+        {
+            "name": "HTML5",
+            "percentage": "90%",
+            "color": "bg-indigo-600"
+        },
+        {
+            "name": "CSS3",
+            "percentage": "90%",
+            "color": "bg-red-600"
+        },
+        {
+            "name": "Bootstrap",
+            "percentage": "80%",
+            "color": "bg-yellow-600"
+        },
+        {
+            "name": "Tailwind CSS",
+            "percentage": "100%",
+            "color": "bg-green-600"
+        },
+        {
+            "name": "JavaScript",
+            "percentage": "100%",
+            "color": "bg-purple-600"
+        },
+        {
+            "name": "React JS",
+            "percentage": "100%",
+            "color": "bg-pink-600"
+        },
+        {
+            "name": "Node JS",
+            "percentage": "90%",
+            "color": "bg-orange-600"
+        },
+        {
+            "name": "Express JS",
+            "percentage": "100%",
+            "color": "bg-amber-600"
+        },
+        {
+            "name": "Next JS",
+            "percentage": "95%",
+            "color": "bg-lime-600"
+        },
+        {
+            "name": "MongoDB",
+            "percentage": "80%",
+            "color": "bg-emerald-600"
+        },
+        {
+            "name": "MySQL",
+            "percentage": "90%",
+            "color": "bg-teal-600"
+        },
+        {
+            "name": "PHP",
+            "percentage": "100%",
+            "color": "bg-cyan-600"
+        },
+        {
+            "name": "Laravel",
+            "percentage": "90%",
+            "color": "bg-violet-600"
+        }
+    ],
+    "educations": [
+        {
+            "degree": "Msc Computer Science",
+            "from": "From N.C Autonomous College, Jajpur, Odisha"
+        },
+        {
+            "degree": "Bsc Computer Science",
+            "from": "From Chitalo Degree College, Jajpur, Odisha"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Mern stack social networking application",
+            "image": "/public/social.png",
+            "link": "https://social-networking.cyclic.app",
+            "github": "https://github.com/rkrout/social-networking-using-node-js-react-js"
+        },
+        {
+            "name": "Mern stack food delivery application",
+            "image": "/public/food.png",
+            "link": "https://food-delivery.cyclic.app",
+            "github": "https://github.com/rkrout/food-delivery-system-using-node-js-react-js"
+        },
+        {
+            "name": "Mern stack community blog application",
+            "image": "/public/blog.png",
+            "link": "https://blogs.cyclic.app",
+            "github": "https://github.com/rkrout/blog-app-using-node-js-react-js"
+        }
+    ],
+    "experiences": [
+        {
+            "position": "PHP Devloper Intern",
+            "company": "Oditek Solutions Pvt Ltd, Bhubaneswar, Odisha"
+        }
+    ],
+    "contact": {
+        "email": "rrout085@gmail.com",
+        "mobile": "+91 7682024375"
+    },
+    "profiles": {
+        "github": "https://github.com/rkrout",
+        "linkedin": "https://www.linkedin.com/in/rajesh-kumar-rout-b472a7198",
+        "twitter": "https://twitter.com/_Rajesh_Rout"
+    }
+}
